@@ -23,6 +23,8 @@ Sujet du contrôle du 5 avril: La partie du cours correspondant à "au delà du 
 Vous pouvez consulter votre rendu (sur papier) lors du contrôle, mais le partage de documents durant le contrôle n'est pas autorisé.
 
 
+lancer: rlwrap sqlplus rousselet@ora12
+
 ## Avancement du projet
 
 Fait:
