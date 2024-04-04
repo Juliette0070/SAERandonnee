@@ -17,7 +17,6 @@ WHERE e1.nomEtape = 'Orléans'
 AND e3.nomEtape != 'Orléans'
 AND (e1.codeEtape != e3.codeEtape);
 
-
 -- Veuillez fournir la liste des étapes accessibles depuis Orléans, avec un nombre quelconque d’étapes intermédiaires
 -- Rep : Champs de Blé, Refuge du Mont Blanc, Camping Les Pins, Chalet en Montagne, Plage de Saint-Tropez, Forêt de Fontainebleau, Campagne Normande, Désert des Bardenas, Quartier de La Défense
 
