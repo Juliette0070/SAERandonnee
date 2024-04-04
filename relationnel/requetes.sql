@@ -5,7 +5,6 @@ FROM ETAPE e
 JOIN TRONCON t ON e.codeEtape = t.idEtapeArrivee
 WHERE t.idEtapeDepart = (SELECT codeEtape FROM ETAPE WHERE nomEtape = 'Orléans');
 
-
 -- Veuillez fournir la liste des étapes accessibles depuis Orléans avec une seule étape intermédiaire.
 -- Rep : Camping Les Pins
 SELECT DISTINCT e3.nomEtape
