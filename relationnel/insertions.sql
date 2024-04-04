@@ -1,13 +1,13 @@
-INSERT INTO NIVEAU_CONFORT (idCategorie, nomCategorie, descriptionCategorie) VALUES (1, 'Ville', 'Étape correspond à une ville');
-INSERT INTO NIVEAU_CONFORT (idCategorie, nomCategorie, descriptionCategorie) VALUES (2, 'Refuge', 'Étape correspond à un refuge');
-INSERT INTO NIVEAU_CONFORT (idCategorie, nomCategorie, descriptionCategorie) VALUES (3, 'Camping', 'Étape correspond à un emplacement de camping');
-INSERT INTO NIVEAU_CONFORT (idCategorie, nomCategorie, descriptionCategorie) VALUES (4, 'Montagne', 'Étape correspond à un endroit en montagne');
-INSERT INTO NIVEAU_CONFORT (idCategorie, nomCategorie, descriptionCategorie) VALUES (5, 'Plage', 'Étape correspond à une plage');
-INSERT INTO NIVEAU_CONFORT (idCategorie, nomCategorie, descriptionCategorie) VALUES (6, 'Forêt', 'Étape correspond à une forêt');
-INSERT INTO NIVEAU_CONFORT (idCategorie, nomCategorie, descriptionCategorie) VALUES (7, 'Campagne', 'Étape correspond à la campagne');
-INSERT INTO NIVEAU_CONFORT (idCategorie, nomCategorie, descriptionCategorie) VALUES (8, 'Désert', 'Étape correspond à un désert');
-INSERT INTO NIVEAU_CONFORT (idCategorie, nomCategorie, descriptionCategorie) VALUES (9, 'Zone urbaine', 'Étape correspond à une zone urbaine');
-INSERT INTO NIVEAU_CONFORT (idCategorie, nomCategorie, descriptionCategorie) VALUES (10, 'Zone rurale', 'Étape correspond à une zone rurale');
+INSERT INTO NIVEAU_CONFORT (idNiveauConfort, nomNiveauConfort, descriptionNiveauConfort) VALUES (1, 'Ville', 'Étape correspond à une ville');
+INSERT INTO NIVEAU_CONFORT (idNiveauConfort, nomNiveauConfort, descriptionNiveauConfort) VALUES (2, 'Refuge', 'Étape correspond à un refuge');
+INSERT INTO NIVEAU_CONFORT (idNiveauConfort, nomNiveauConfort, descriptionNiveauConfort) VALUES (3, 'Camping', 'Étape correspond à un emplacement de camping');
+INSERT INTO NIVEAU_CONFORT (idNiveauConfort, nomNiveauConfort, descriptionNiveauConfort) VALUES (4, 'Montagne', 'Étape correspond à un endroit en montagne');
+INSERT INTO NIVEAU_CONFORT (idNiveauConfort, nomNiveauConfort, descriptionNiveauConfort) VALUES (5, 'Plage', 'Étape correspond à une plage');
+INSERT INTO NIVEAU_CONFORT (idNiveauConfort, nomNiveauConfort, descriptionNiveauConfort) VALUES (6, 'Forêt', 'Étape correspond à une forêt');
+INSERT INTO NIVEAU_CONFORT (idNiveauConfort, nomNiveauConfort, descriptionNiveauConfort) VALUES (7, 'Campagne', 'Étape correspond à la campagne');
+INSERT INTO NIVEAU_CONFORT (idNiveauConfort, nomNiveauConfort, descriptionNiveauConfort) VALUES (8, 'Désert', 'Étape correspond à un désert');
+INSERT INTO NIVEAU_CONFORT (idNiveauConfort, nomNiveauConfort, descriptionNiveauConfort) VALUES (9, 'Zone urbaine', 'Étape correspond à une zone urbaine');
+INSERT INTO NIVEAU_CONFORT (idNiveauConfort, nomNiveauConfort, descriptionNiveauConfort) VALUES (10, 'Zone rurale', 'Étape correspond à une zone rurale');
 
 INSERT INTO TYPE_SOL (idTypeSol, nomTypeSol) VALUES (1, 'Terre');
 INSERT INTO TYPE_SOL (idTypeSol, nomTypeSol) VALUES (2, 'Bitume');
