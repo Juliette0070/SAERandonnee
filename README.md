@@ -17,11 +17,9 @@ BD GRAPHE, section 3.5: Cette partie est  supprimée de la SAE.
 
 Le pdf doit être imprimé sur papier et rendu lors de l'évaluation SAE le 5 avril.
 
-
 Sujet du contrôle du 5 avril: La partie du cours correspondant à "au delà du relationnel" et à la SAE, à savoir, requêtes relationnelles récursives, modèle relationnel,  datalog, questions générales sur NoSQL ou BDGraphe. Les questions sur datalog seront très probablement la partie prépondérante du contrôle.
 
 Vous pouvez consulter votre rendu (sur papier) lors du contrôle, mais le partage de documents durant le contrôle n'est pas autorisé.
-
 
 lancer: rlwrap sqlplus rousselet@ora12
 
@@ -29,4 +27,6 @@ lancer: rlwrap sqlplus rousselet@ora12
 
 Fait:
 modele relationnel (creation/insertion)
-requetes relationnelles : 1 et 2
+requetes relationnelles
+modele objet-relationnel (creation/insertion)
+requetes objet-relationnel
